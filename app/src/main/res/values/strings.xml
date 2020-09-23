@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Navigation Bar</string>
+    <string name="i_am_base_view">I am Base view</string>
+    <string name="on_drawer_closed">Navigation bar was closed</string>
+    <string name="on_drawer_opened">Navigation bar was opened</string>
+</resources>
